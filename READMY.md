@@ -123,10 +123,7 @@ sudo systemctl enable story.service
 Lỗi không tìm thấy lệnh story-geth hoặc story: Kiểm tra rằng biến môi trường
 ```bash
 PATH
-````
-đã được thiết lập đúng cách và 
-```bash
-story-geth và story đã được sao chép vào thư mục $HOME/go/bin
+đã được thiết lập đúng cách và story-geth và story đã được sao chép vào thư mục $HOME/go/bin chưa?
 ````
 Lỗi khi khởi động dịch vụ: Kiểm tra logs dịch vụ bằng lệnh 
 ```bash
